@@ -71,7 +71,7 @@ p {
 .button-section {
     width: 239px;
     height: 64px;
-    flex-shrink: 0;
+    flex-shrink: 1px;
     border-radius: 20px;
     background: #ADFF00;
     border: none;
