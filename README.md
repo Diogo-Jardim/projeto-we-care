@@ -8,4 +8,4 @@
  <p>- HTML</p>
  <p>- CSS</p>
 
- <img src="
+ <img src="https://github.com/Diogo-Jardim/projeto-we-care/blob/main/img/we%20care%20desktop.png?raw=true">
