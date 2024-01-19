@@ -9,3 +9,6 @@
  <p>- CSS</p>
 
  <img src="https://github.com/Diogo-Jardim/projeto-we-care/blob/main/img/we%20care%20desktop.png?raw=true">
+
+ <p>Versão Mobile</p>
+ <img src="https://github.com/Diogo-Jardim/Easy-shopping/blob/main/img/Mobile.png?raw=true">
